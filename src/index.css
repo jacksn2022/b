@@ -1,0 +1,26 @@
+.body {
+  font-family: "Merriweather", serif !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Merriweather", serif;
+  font-size: 1.9em;
+  font-weight: 700;
+  color: #005288 !important;
+  line-height: 1.5;
+  margin: 0 0 3rem;
+}
+
+.btn {
+  background: #005287;
+  padding: 5px 10px;
+  border-radius: 20px;
+  margin-right: 10px;
+  font-weight: normal;
+  color: white;
+}
