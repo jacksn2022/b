@@ -123,9 +123,7 @@ export default function UserProfileView() {
               </div>
 
               <div className="flex gap-3">
-                <button className="px-4 py-2 rounded-lg border btn text-white bold hover:shadow">
-                  Need Assistance
-                </button>
+         
               </div>
             </div>
 
@@ -380,3 +378,4 @@ export default function UserProfileView() {
     </>
   );
 }
+
